@@ -1,13 +1,13 @@
 // about.js
-import React from 'react';
+import React from 'react'
+import Layout from '../components/layout'
 
-const About = () => {
+export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
-      <p>Welcome to the About Page</p>
-    </div>
-  );
-};
-
-export default About;
+    <Layout>
+      <h1>About Me</h1>
+      <p>I am a software developer and I love building great applications.</p>
+      <p>I have been working in this field for several years and I am always looking for new challenges and opportunities to improve my skills and knowledge.</p>
+    </Layout>
+  )
+}
