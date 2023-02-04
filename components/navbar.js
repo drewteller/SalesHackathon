@@ -1,19 +1,15 @@
+import React from 'react'
 import Link from 'next/link'
+import styles from './navbar.module.css'
 
 const Navbar = () => (
-  <nav>
-    <ul>
-      <li>
-        <Link href="/">
-          <a>Home</a>
-        </Link>
-      </li>
-      <li>
-        <Link href="/about">
-          <a>About</a>
-        </Link>
-      </li>
-    </ul>
+  <nav className={styles.navbar}>
+    <Link href="/">
+      <a>Home</a>
+    </Link>
+    <Link href="/about">
+      <a>About</a>
+    </Link>
   </nav>
 )
 
