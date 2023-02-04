@@ -55,5 +55,5 @@ const HowChatGPTCanHelpSEO = () => (
         </div>
       </div>
     </div>
-
+);
   export default HowChatGPTCanHelpSEO;
