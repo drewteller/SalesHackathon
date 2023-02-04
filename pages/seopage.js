@@ -56,4 +56,4 @@ const HowChatGPTCanHelpSEO = () => (
       </div>
     </div>
 );
-  export default HowChatGPTCanHelpSEO;
+  export default function HowChatGPTCanHelpSEO;
