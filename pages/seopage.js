@@ -17,6 +17,9 @@ const HowChatGPTCanHelpSEO = () => (
         SEO is essential for websites to rank higher in search engines, and ChatGPT can provide assistance in optimizing your website's SEO.
       </p>
     </div>
+    <div className="seo-image">
+      <img src="https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png" alt="SEO related image" />
+    </div>
     <div className="what-is-chatgpt">
       <h2>What is ChatGPT?</h2>
       <p>
@@ -42,4 +45,4 @@ const HowChatGPTCanHelpSEO = () => (
     </div>
   </div>
 );
-export default HowChatGPTCanHelpSEO;
+export default HowChatGPTCanHelpSEO
