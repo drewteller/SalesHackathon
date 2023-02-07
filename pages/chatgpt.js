@@ -9,12 +9,7 @@ const SEO = () => (
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
     </Head>
- <Head>
-      <title>How ChatGPT can help debugging buil log errors | Netlify</title>
-      <meta name="description" content="ChatGPT can assist in optimizing your website's content for search engines, improving visibility and attracting more organic traffic." />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="icon" href="https://www.netlify.com/favicon.ico" />
-    </Head>
+
   
     <div className="seo-image">
       <img src="https://images.indianexpress.com/2022/12/ChatGPT_NEW_LEAD-1.jpg" alt="SEO related image" />
