@@ -18,18 +18,26 @@ const SEO = () => (
       <p>
         ChatGPT can be used to assist in debugging build log errors in a number of ways. Here are a few examples:
       </p>
+          <p>
+         </p>
 Text Classification: ChatGPT can be trained on a dataset of common build log errors and used to classify new log outputs. If the model identifies a log as an error, it can provide a suggested solution based on previous solutions for similar logs.
     <p>
 Keyword-Based Search: ChatGPT can be used to search build logs for specific keywords related to known errors. For example, a user can search for "404 error" to identify instances of this specific error in the logs.
     </p>
+     <p>
+         </p>
 Natural Language Processing: ChatGPT can be used to parse and understand the meaning of build log outputs written in natural language. This enables the model to provide more accurate and relevant suggestions for resolving errors.
     <p>
 Chatbot Interface: ChatGPT can be integrated into a chatbot interface, allowing developers to easily interact with the model and ask for assistance in resolving build log errors. This interface can also be integrated into popular collaboration tools like Slack, making it easy for teams to work together to resolve build log issues.
   </p>
+     <p>
+         </p>
 Predictive Analytics: ChatGPT can be used to analyze build logs over time to identify trends and predict potential issues before they become actual errors. This enables development teams to proactively address potential issues, reducing the risk of unexpected downtime and ensuring a seamless user experience.
   <p>
 In conclusion, ChatGPT is a powerful tool that can help to simplify the process of debugging build log errors. By providing advanced capabilities like text classification, keyword-based search, natural language processing, and predictive analytics, ChatGPT can streamline the error resolution process, saving time and reducing the risk of unexpected downtime.
       </p>
+     <p>
+         </p>
     </main>
     <footer className={styles.footer}>
       <p>&copy; 2022 Netlify</p>
