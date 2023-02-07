@@ -20,7 +20,7 @@ const HowChatGPTCanHelpSEO = () => (
     </div>
     <div className="seo-image">
     
-      <img src="https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png" alt="SEO related image" class="center" />
+      <img src="https://statuslabs.com/wp-content/uploads/SEO-Pillar-Post-Art-.png" alt="SEO related image" style="width:50%;" />
     </div>
     <div className="what-is-chatgpt">
       <h2>What is ChatGPT?</h2>
