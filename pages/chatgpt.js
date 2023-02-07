@@ -9,10 +9,7 @@ const SEO = () => (
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="icon" href="https://www.netlify.com/favicon.ico" />
     </Head>
-    <header className={styles.header}>
-      <img src="https://images.indianexpress.com/2022/12/ChatGPT_NEW_LEAD-1.jpg" alt="Netlify Logo" />
-      <h1 className={styles.title}>How ChatGPT can Help with SEO</h1>
-    </header>
+  
     <div className="seo-image">
       <img src="https://images.indianexpress.com/2022/12/ChatGPT_NEW_LEAD-1.jpg" alt="SEO related image" />
     </div>
