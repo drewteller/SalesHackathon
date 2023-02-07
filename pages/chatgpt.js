@@ -14,6 +14,7 @@ const SEO = () => (
     <div className="seo-image">
       <img src="https://images.indianexpress.com/2022/12/ChatGPT_NEW_LEAD-1.jpg" alt="SEO related image" />
     </div>
+<div className={styles.main}>
       <p>
 ChatGPT can be used to assist in debugging build log errors in a number of ways. Here are a few examples:
       </p> 
@@ -35,6 +36,7 @@ In conclusion, ChatGPT is a powerful tool that can help to simplify the process 
       </p>
      <p>
          </p>
+</main>
    
     <footer className={styles.footer}>
       <p>&copy; 2022 Netlify</p>
