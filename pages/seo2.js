@@ -13,7 +13,7 @@ const SEO = () => (
       <img src="https://www.netlify.com/img/global/icons/netlify-color-bg.svg" alt="Netlify Logo" />
       <h1 className={styles.title}>How ChatGPT can Help with SEO</h1>
     </header>
-    <main className={styles.main}>
+    <main className={styles.header}>
       <p>
         ChatGPT can be used to assist in debugging build log errors in a number of ways. Here are a few examples:
       </p>
