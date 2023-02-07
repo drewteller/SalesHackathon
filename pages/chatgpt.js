@@ -4,6 +4,11 @@ import styles from '/components/HowChatGPTCanHelpSEO.module.css';
 const SEO = () => (
   <div className={styles.container}>
     <Head>
+  <Head>
+      <title>How ChatGPT can help debugging buil log errors</title>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta charSet="utf-8" />
+    </Head>
       <title>How ChatGPT can help debugging buil log errors | Netlify</title>
       <meta name="description" content="ChatGPT can assist in optimizing your website's content for search engines, improving visibility and attracting more organic traffic." />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
