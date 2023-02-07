@@ -9,13 +9,7 @@ const HowChatGPTCanHelpSEO = () => (
       <title>How ChatGPT Can Help SEO</title>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta charSet="utf-8" />
-  <style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
+
     </Head>
     <div className="title">
       <h1 className="text-center">How ChatGPT Can Help SEO</h1>
